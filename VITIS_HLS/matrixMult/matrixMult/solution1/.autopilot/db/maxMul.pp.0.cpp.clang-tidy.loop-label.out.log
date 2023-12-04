@@ -1,0 +1,35 @@
+/home/rrm/COMPILER/VITIS_HLS/matrixMult/matrixMult/solution1/.autopilot/db/maxMul.pp.0.cpp:169:2: warning: Added loop label VITIS_LOOP_15_1:   [xilinx-label-all-loops]
+ for(int i = 0; i < 100; i++){
+ ^~~
+ VITIS_LOOP_15_1: 
+/home/rrm/COMPILER/VITIS_HLS/matrixMult/matrixMult/solution1/.autopilot/db/maxMul.pp.0.cpp:169:2: note: FIX-IT applied suggested code changes
+/home/rrm/COMPILER/VITIS_HLS/matrixMult/matrixMult/solution1/.autopilot/db/maxMul.pp.0.cpp:170:3: warning: Added loop label VITIS_LOOP_16_2:   [xilinx-label-all-loops]
+  for(int j = 0; j < 100; j++){
+  ^~~
+  VITIS_LOOP_16_2: 
+/home/rrm/COMPILER/VITIS_HLS/matrixMult/matrixMult/solution1/.autopilot/db/maxMul.pp.0.cpp:170:3: note: FIX-IT applied suggested code changes
+/home/rrm/COMPILER/VITIS_HLS/matrixMult/matrixMult/solution1/.autopilot/db/maxMul.pp.0.cpp:177:2: warning: Added loop label VITIS_LOOP_23_3:   [xilinx-label-all-loops]
+ for(int i = 0; i < 100; i++){
+ ^~~
+ VITIS_LOOP_23_3: 
+/home/rrm/COMPILER/VITIS_HLS/matrixMult/matrixMult/solution1/.autopilot/db/maxMul.pp.0.cpp:177:2: note: FIX-IT applied suggested code changes
+/home/rrm/COMPILER/VITIS_HLS/matrixMult/matrixMult/solution1/.autopilot/db/maxMul.pp.0.cpp:178:3: warning: Added loop label VITIS_LOOP_24_4:   [xilinx-label-all-loops]
+  for(int j = 0; j < 100; j++){
+  ^~~
+  VITIS_LOOP_24_4: 
+/home/rrm/COMPILER/VITIS_HLS/matrixMult/matrixMult/solution1/.autopilot/db/maxMul.pp.0.cpp:178:3: note: FIX-IT applied suggested code changes
+/home/rrm/COMPILER/VITIS_HLS/matrixMult/matrixMult/solution1/.autopilot/db/maxMul.pp.0.cpp:185:2: warning: Added loop label VITIS_LOOP_31_5:   [xilinx-label-all-loops]
+ for(int i = 0; i < 100; i++){
+ ^~~
+ VITIS_LOOP_31_5: 
+/home/rrm/COMPILER/VITIS_HLS/matrixMult/matrixMult/solution1/.autopilot/db/maxMul.pp.0.cpp:185:2: note: FIX-IT applied suggested code changes
+/home/rrm/COMPILER/VITIS_HLS/matrixMult/matrixMult/solution1/.autopilot/db/maxMul.pp.0.cpp:186:3: warning: Added loop label VITIS_LOOP_32_6:   [xilinx-label-all-loops]
+  for(int j = 0; j < 100; j++){
+  ^~~
+  VITIS_LOOP_32_6: 
+/home/rrm/COMPILER/VITIS_HLS/matrixMult/matrixMult/solution1/.autopilot/db/maxMul.pp.0.cpp:186:3: note: FIX-IT applied suggested code changes
+/home/rrm/COMPILER/VITIS_HLS/matrixMult/matrixMult/solution1/.autopilot/db/maxMul.pp.0.cpp:188:4: warning: Added loop label VITIS_LOOP_34_7:   [xilinx-label-all-loops]
+   for(int k = 0; k < 100; k++){
+   ^~~
+   VITIS_LOOP_34_7: 
+/home/rrm/COMPILER/VITIS_HLS/matrixMult/matrixMult/solution1/.autopilot/db/maxMul.pp.0.cpp:188:4: note: FIX-IT applied suggested code changes

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cdfg:DBCdfg xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cdfg="http://www.autoesl.com/DBCdfg" timeStamp="1701528332674">
+  <regions anchor_node="-1" region_type="8" interval="1" typeName="Pipeline" iiViolation="" id="12" pipe_depth="1" RegionName="matrixMul">
+    <basic_blocks id="6" name="matrixMul" type="BlockType">
+      <node_objs xsi:type="cdfg:CdfgNode" id="5" name="_ln39" lineNumber="39" fileName="maxMul.cpp" fileDirectory=".." coreId="1667592275" contextFuncName="matrixMul" opcode="ret" m_display="0" m_topoIndex="1" m_clusterGroupNumber="-1">
+        <inlineStackInfo fileName="maxMul.cpp" linenumber="39" fileDirectory="/home/rrm/COMPILER/VITIS_HLS/matrixMult" functionName="matrixMul"/>
+      </node_objs>
+      <fileValidLineNumbers fileName="maxMul.cpp">
+        <validLinenumbers>39</validLinenumbers>
+      </fileValidLineNumbers>
+    </basic_blocks>
+  </regions>
+  <ScheduleInfo time="0"/>
+  <fsm>
+    <states id="1">
+      <operations id="1" stage="1" latency="1"/>
+      <operations id="2" stage="1" latency="1"/>
+      <operations id="3" stage="1" latency="1"/>
+      <operations id="4" stage="1" latency="1"/>
+      <operations id="5" stage="1" latency="1"/>
+    </states>
+  </fsm>
+  <CFGRegionsRoot>
+    <cfgRegions mId="1" mTag="matrixMul" mII="1" mDepth="1" mMinTripCount="-1" mMaxTripCount="-1">
+      <basicBlocks>6</basicBlocks>
+      <mDfPipe/>
+    </cfgRegions>
+  </CFGRegionsRoot>
+</cdfg:DBCdfg>

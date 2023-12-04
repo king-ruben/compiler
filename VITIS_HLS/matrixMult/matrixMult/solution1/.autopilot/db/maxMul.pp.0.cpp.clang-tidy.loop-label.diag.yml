@@ -1,0 +1,67 @@
+---
+MainSourceFile:  /home/rrm/COMPILER/VITIS_HLS/matrixMult/matrixMult/solution1/.autopilot/db/maxMul.pp.0.cpp
+Diagnostics:     
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_15_1:  '
+    FileOffset:      15
+    FilePath:        maxMul.cpp
+    Replacements:    
+      - FilePath:        /home/rrm/COMPILER/VITIS_HLS/matrixMult/matrixMult/solution1/.autopilot/db/maxMul.pp.0.cpp
+        Offset:          9889
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_15_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_16_2:  '
+    FileOffset:      16
+    FilePath:        maxMul.cpp
+    Replacements:    
+      - FilePath:        /home/rrm/COMPILER/VITIS_HLS/matrixMult/matrixMult/solution1/.autopilot/db/maxMul.pp.0.cpp
+        Offset:          9921
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_16_2: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_23_3:  '
+    FileOffset:      23
+    FilePath:        maxMul.cpp
+    Replacements:    
+      - FilePath:        /home/rrm/COMPILER/VITIS_HLS/matrixMult/matrixMult/solution1/.autopilot/db/maxMul.pp.0.cpp
+        Offset:          9995
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_23_3: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_24_4:  '
+    FileOffset:      24
+    FilePath:        maxMul.cpp
+    Replacements:    
+      - FilePath:        /home/rrm/COMPILER/VITIS_HLS/matrixMult/matrixMult/solution1/.autopilot/db/maxMul.pp.0.cpp
+        Offset:          10027
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_24_4: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_31_5:  '
+    FileOffset:      31
+    FilePath:        maxMul.cpp
+    Replacements:    
+      - FilePath:        /home/rrm/COMPILER/VITIS_HLS/matrixMult/matrixMult/solution1/.autopilot/db/maxMul.pp.0.cpp
+        Offset:          10126
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_31_5: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_32_6:  '
+    FileOffset:      32
+    FilePath:        maxMul.cpp
+    Replacements:    
+      - FilePath:        /home/rrm/COMPILER/VITIS_HLS/matrixMult/matrixMult/solution1/.autopilot/db/maxMul.pp.0.cpp
+        Offset:          10158
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_32_6: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_34_7:  '
+    FileOffset:      34
+    FilePath:        maxMul.cpp
+    Replacements:    
+      - FilePath:        /home/rrm/COMPILER/VITIS_HLS/matrixMult/matrixMult/solution1/.autopilot/db/maxMul.pp.0.cpp
+        Offset:          10211
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_34_7: '
+...

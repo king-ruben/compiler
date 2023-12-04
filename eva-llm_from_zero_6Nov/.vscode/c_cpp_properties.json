@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "/home/rrm/installed-programs/clang-and-llvm-16-prebuilt-binaries/include",
+                "/home/rrm/COMPILER/eva-llm_from_zero_6Nov/src/parser"
+            ],
+            "defines": [],
+            "compilerPath": "/home/rrm/installed-programs/clang-and-llvm-16-prebuilt-binaries/bin/clang",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "linux-clang-x64"
+        }
+    ],
+    "version": 4
+}
